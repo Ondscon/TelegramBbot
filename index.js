@@ -10,7 +10,7 @@ bot.on('message', async msg => {
    bot.setMyCommands([
        {command: '/start', description: 'Что то под 1'},
        {command: '/less', description: 'Что то под 2'},
-       {command: '/end', description: 'Что то под 3'},
+       {command: '/end', description: 'Что то под 4'},
    ])
    
      if (text === '/start') {
